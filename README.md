@@ -1,63 +1,55 @@
-<!-- Encabezado principal animado -->
 <h1 align="center">¡Hola, soy Carlos Nol! 👨‍💻</h1>
-<h3 align="center">Full Stack Developer | Entusiasta de la automatización | Explorador digital 🌐</h3>
+<h3 align="center">Full Stack Developer | Apasionado por la tecnología | Explorador de ideas 🌐</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer at work gif" />
 </p>
 
 ---
 
 ### 👨‍💻 Acerca de mí
 
-- 🚀 Desarrollador Full Stack con pasión por el código limpio y las soluciones creativas
-- 🧠 Aprendiz constante, curioso por naturaleza
-- 💡 Me inspiran los retos, la automatización y la mejora continua
-- 🎯 Actualmente creando herramientas útiles y experimentando con IA
+- 🚀 Desarrollador Full Stack enfocado en construir soluciones útiles y escalables.
+- 🧠 Aprendiz constante y curioso por automatizar todo lo que sea posible.
+- 🎯 Me encanta trabajar en proyectos con impacto real, siempre buscando la mejora continua.
 
 ---
 
 ### 🛠️ Stack actual
-### 🛠️ Stack actual
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,vite,webpack,mongodb,mysql,sqlite,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,heroku,vercel,netlify" /><br>
-  <img src="https://skillicons.dev/icons?i=bash,arduino,pytest,jest,selenium,jenkins,githubactions" />
-</div>
-#### 🔵 Frontend
-- HTML, CSS, JavaScript, TypeScript
-- React, Next.js, TailwindCSS, Bootstrap
-- Vite, Webpack, Figma (UI/UX)
+#### 👨‍🏫 Lenguajes
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-#### 🟢 Backend
-- Node.js, Express.js
-- Python (Flask, FastAPI), Java
-- Bases de datos: MongoDB, MySQL, SQLite, PostgreSQL
+#### 🖼️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ DevOps / CI/CD
-- Git, GitHub, GitHub Actions, Docker, Jenkins
-- Deploy: Vercel, Netlify, Heroku
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
-#### 🔬 Testing y QA
-- Jest, PyTest, Selenium, Postman
+#### 🗄️ Bases de Datos
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
-#### 🧪 Otros
-- Arduino, Bash/Shell scripting, Linux CLI
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind,mongodb,mysql,docker,git,vscode&perline=7" />
-</div>
+#### 🧰 Herramientas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ### 📊 Mis estadísticas
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 ---
 
@@ -71,9 +63,9 @@
 
 ### 🌱 Actualmente aprendiendo
 
-- 📲 **React Native** para apps móviles
-- 🤖 **TensorFlow/Keras** para proyectos de IA
-- ☁️ **Docker + GitHub Actions** para flujos CI/CD modernos
+- 🤖 Inteligencia Artificial con TensorFlow/Keras  
+- 📱 Desarrollo móvil con React Native  
+- ⚙️ DevOps y despliegue con Docker + GitHub Actions
 
 ---
 
@@ -81,10 +73,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🧠 Sistema Experto en Prolog | Diagnóstico con lógica declarativa y GUI | Prolog, SWI, Interfaces |
-| 🛠 Gestor de Casos de Prueba | Registro estructurado de QA y resultados | Python, Excel, UI |
-| 🔧 Simulador de Sensores Arduino | Lectura de humedad y temperatura | Arduino, sensores, consola |
-| 📊 Dashboard Web Interactivo | Datos en tiempo real con visualización | React, Chart.js, APIs |
+| 🧠 Sistema Experto en Prolog | Diagnóstico con lógica declarativa y GUI | Prolog, SWI |
+| 🧪 Simulación Arduino | Lectura de sensores ambientales para domótica | Arduino, C++, consola |
+| 🛠 Gestor de QA | Registro de pruebas y resultados en Excel con lógica | Python, Tkinter, openpyxl |
+| 📊 Dashboard React | Visualización interactiva de datos reales | React, Chart.js, API REST |
 
 ---
 
@@ -104,21 +96,20 @@
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Curiosidades
 
-- ☕ Soy un verdadero fan del café (¡negro, sin azúcar!)
-- 🎮 Juego videojuegos para liberar estrés y descubrir mundos
-- 🧩 Me gustan los puzzles, tanto lógicos como visuales
-- 🤖 Automatizo tareas repetitivas… ¡solo por diversión!
+- ☕ El café me activa más que el compilador de C++
+- 🎮 Me encantan los videojuegos retro y los juegos de estrategia
+- 🧠 Disfruto los retos de programación como rompecabezas mentales
 
 ---
 
-### 🧠 Frase favorita
+### 💬 Frase que me inspira
 
-> “El software es una herramienta poderosa. Lo importante es lo que haces con ella.” – Carlos Nol
+> “Crea algo que tú mismo usarías. Eso ya es un buen comienzo.” – Carlos Nol
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=¡Gracias+por+pasar+por+mi+perfil!;Estoy+abierto+a+colaboraciones+y+proyectos.;¿Programamos+algo+increíble+juntos%3F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF61AE&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil.;Siempre+hay+algo+por+aprender.;Construyamos+algo+juntos!+🚀" />
 </p>
