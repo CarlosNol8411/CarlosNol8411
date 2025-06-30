@@ -18,6 +18,33 @@
 ---
 
 ### 🛠️ Stack actual
+### 🛠️ Stack actual
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,vite,webpack,mongodb,mysql,sqlite,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,heroku,vercel,netlify" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,arduino,pytest,jest,selenium,jenkins,githubactions" />
+</div>
+#### 🔵 Frontend
+- HTML, CSS, JavaScript, TypeScript
+- React, Next.js, TailwindCSS, Bootstrap
+- Vite, Webpack, Figma (UI/UX)
+
+#### 🟢 Backend
+- Node.js, Express.js
+- Python (Flask, FastAPI), Java
+- Bases de datos: MongoDB, MySQL, SQLite, PostgreSQL
+
+#### ⚙️ DevOps / CI/CD
+- Git, GitHub, GitHub Actions, Docker, Jenkins
+- Deploy: Vercel, Netlify, Heroku
+
+#### 🔬 Testing y QA
+- Jest, PyTest, Selenium, Postman
+
+#### 🧪 Otros
+- Arduino, Bash/Shell scripting, Linux CLI
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind,mongodb,mysql,docker,git,vscode&perline=7" />
