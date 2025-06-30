@@ -1,96 +1,97 @@
-<h1 align="center">¡Hola! 👋 Soy Carlos Nol</h1>
-<h3 align="center">💻 Desarrollador Full Stack | ⚙️ Apasionado por la innovación | 🎮 Amante de los videojuegos y el café ☕</h3>
+<!-- Encabezado principal animado -->
+<h1 align="center">¡Hola, soy Carlos Nol! 👨‍💻</h1>
+<h3 align="center">Full Stack Developer | Entusiasta de la automatización | Explorador digital 🌐</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="welcome gif" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" alt="coding gif" />
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 👨‍💻 Acerca de mí
 
-🌟 Soy un desarrollador Full Stack enfocado en crear soluciones tecnológicas útiles, eficientes y bien diseñadas.  
-🔍 Siempre estoy explorando nuevas tecnologías, mejorando habilidades y aportando a proyectos open source.  
-🎯 Mi objetivo: crecer como profesional y divertirme en el proceso.
+- 🚀 Desarrollador Full Stack con pasión por el código limpio y las soluciones creativas
+- 🧠 Aprendiz constante, curioso por naturaleza
+- 💡 Me inspiran los retos, la automatización y la mejora continua
+- 🎯 Actualmente creando herramientas útiles y experimentando con IA
 
 ---
 
-### 🛠️ Tecnologías que domino
+### 🛠️ Stack actual
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind,mongodb,mysql,docker,git,vscode&perline=7" />
+</div>
+
+---
+
+### 📊 Mis estadísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🏆 Trofeos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,mongodb,git,docker,linux,vscode&perline=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosNol8411&theme=dracula&no-frame=true&margin-w=20&title=Commits,Repositories,Followers,Stars" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🌱 Actualmente aprendiendo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-### 🏆 Trofeos y Actividad
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosNol8411&theme=radical&row=1&no-bg=true&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CarlosNol8411&theme=react-dark" alt="activity graph" />
-</p>
+- 📲 **React Native** para apps móviles
+- 🤖 **TensorFlow/Keras** para proyectos de IA
+- ☁️ **Docker + GitHub Actions** para flujos CI/CD modernos
 
 ---
 
-### 📌 Proyectos Destacados
+### 📌 Proyectos destacados
 
-- 🔐 **Sistema Experto en Prolog** – Diagnóstico automatizado usando lógica declarativa
-- 🧪 **Simulación de Sensores** – Domótica con Arduino y sensores ambientales
-- 📋 **Gestor QA** – Registro de pruebas con seguimiento en Excel + Python
-- ⚙️ **Dashboard Interactivo** – Visualización de datos en tiempo real con React
-
----
-
-### 📚 Actualmente aprendiendo
-
-- 🤖 Inteligencia Artificial con TensorFlow  
-- 📱 Aplicaciones móviles con React Native  
-- ☁️ DevOps y despliegue con Docker y GitHub Actions
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🧠 Sistema Experto en Prolog | Diagnóstico con lógica declarativa y GUI | Prolog, SWI, Interfaces |
+| 🛠 Gestor de Casos de Prueba | Registro estructurado de QA y resultados | Python, Excel, UI |
+| 🔧 Simulador de Sensores Arduino | Lectura de humedad y temperatura | Arduino, sensores, consola |
+| 📊 Dashboard Web Interactivo | Datos en tiempo real con visualización | React, Chart.js, APIs |
 
 ---
 
-### 📫 Conéctate conmigo
+### 📫 ¡Conectemos!
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tu@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-### 💬 Frase que me inspira
+### ⚡ Fun Facts
 
-> “No se trata solo de programar, se trata de crear soluciones que mejoren la vida de las personas.”  
+- ☕ Soy un verdadero fan del café (¡negro, sin azúcar!)
+- 🎮 Juego videojuegos para liberar estrés y descubrir mundos
+- 🧩 Me gustan los puzzles, tanto lógicos como visuales
+- 🤖 Automatizo tareas repetitivas… ¡solo por diversión!
 
 ---
 
-### 👀 Curiosidades
+### 🧠 Frase favorita
 
-- ☕ No funciono sin café
-- 🎮 Me encantan los videojuegos (y los bugs… cuando no son míos)
-- 🔄 Automatizar tareas me da paz mental
+> “El software es una herramienta poderosa. Lo importante es lo que haces con ella.” – Carlos Nol
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Explora+mis+repositorios.;Conectemos+y+hagamos+algo+increíble."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=¡Gracias+por+pasar+por+mi+perfil!;Estoy+abierto+a+colaboraciones+y+proyectos.;¿Programamos+algo+increíble+juntos%3F" />
 </p>
