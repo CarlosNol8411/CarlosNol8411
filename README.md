@@ -1,36 +1,96 @@
-# ¡Hola! Soy Carlos Nol 👋
+<h1 align="center">¡Hola! 👋 Soy Carlos Nol</h1>
+<h3 align="center">💻 Desarrollador Full Stack | ⚙️ Apasionado por la innovación | 🎮 Amante de los videojuegos y el café ☕</h3>
 
-### Desarrollador Full Stack | Apasionado por la tecnología y la innovación
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="welcome gif" />
+</p>
 
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado por el desarrollo de software con experiencia en múltiples tecnologías. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
+---
 
-## 🛠 Tecnologías y Habilidades
+### 🚀 Sobre mí
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+🌟 Soy un desarrollador Full Stack enfocado en crear soluciones tecnológicas útiles, eficientes y bien diseñadas.  
+🔍 Siempre estoy explorando nuevas tecnologías, mejorando habilidades y aportando a proyectos open source.  
+🎯 Mi objetivo: crecer como profesional y divertirme en el proceso.
 
-## 📈 Mis Estadísticas
+---
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=radical)](https://github.com/CarlosNol8411)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=radical)](https://github.com/CarlosNol8411)
+### 🛠️ Tecnologías que domino
 
-## 🔭 Actualmente estoy trabajando en...
-- Un proyecto personal de automatización con Python
-- Mejorando mis habilidades en desarrollo web con React
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,mongodb,git,docker,linux,vscode&perline=7" />
+</p>
 
-## 🌱 Actualmente estoy aprendiendo...
-- Machine Learning con TensorFlow
-- Desarrollo de aplicaciones móviles con React Native
+---
 
-## 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
+### 📈 GitHub Stats
 
-## ⚡ Dato curioso
-Me encanta el café ☕ y jugar videojuegos
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 🏆 Trofeos y Actividad
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosNol8411&theme=radical&row=1&no-bg=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CarlosNol8411&theme=react-dark" alt="activity graph" />
+</p>
+
+---
+
+### 📌 Proyectos Destacados
+
+- 🔐 **Sistema Experto en Prolog** – Diagnóstico automatizado usando lógica declarativa
+- 🧪 **Simulación de Sensores** – Domótica con Arduino y sensores ambientales
+- 📋 **Gestor QA** – Registro de pruebas con seguimiento en Excel + Python
+- ⚙️ **Dashboard Interactivo** – Visualización de datos en tiempo real con React
+
+---
+
+### 📚 Actualmente aprendiendo
+
+- 🤖 Inteligencia Artificial con TensorFlow  
+- 📱 Aplicaciones móviles con React Native  
+- ☁️ DevOps y despliegue con Docker y GitHub Actions
+
+---
+
+### 📫 Conéctate conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tu@email.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💬 Frase que me inspira
+
+> “No se trata solo de programar, se trata de crear soluciones que mejoren la vida de las personas.”  
+
+---
+
+### 👀 Curiosidades
+
+- ☕ No funciono sin café
+- 🎮 Me encantan los videojuegos (y los bugs… cuando no son míos)
+- 🔄 Automatizar tareas me da paz mental
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Explora+mis+repositorios.;Conectemos+y+hagamos+algo+increíble."/>
+</p>
