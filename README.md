@@ -33,4 +33,4 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado por el desarrollo de softw
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
 ## ⚡ Dato curioso
-Me encanta el café ☕ y jugar videojuegoas
+Me encanta el café ☕ y jugar videojuegos
