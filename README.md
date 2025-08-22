@@ -1,104 +1,112 @@
-<h1 align="center">¡Hola 👋, soy Carlos Nol!</h1>
-<h3 align="center">🚀 Full Stack Developer | Apasionado por la tecnología | Explorador de ideas innovadoras</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF61AE&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Amante+de+la+automatización;Solucionador+de+problemas;Aprendiz+continuo" alt="Titulo animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4500&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hola+Mundo!+👋;Soy+Carlos+Nol;Full+Stack+Developer" alt="Titulo animado" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/CarlosNol8411?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total de estrellas en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CarlosNol8411?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/CarlosNol8411?tab=followers">
-    <img alt="followers" title="Sígueme en GitHub" src="https://custom-icon-badges.demolab.com/github/followers/CarlosNol8411?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Carlos+Nol&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Desarrollador+Full+Stack&descSize=20&descAlignY=55)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer at work gif" />
-</p>
-
----
+</div>
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y eficientes. Me encanta enfrentar nuevos desafíos y aprender tecnologías emergentes. Mi objetivo es desarrollar software que no solo funcione bien, sino que también brinde una experiencia excepcional al usuario.
+Soy un apasionado desarrollador Full Stack con un amor por crear soluciones innovadoras y eficientes. Mi curiosidad natural me impulsa a explorar nuevas tecnologías y enfrentar desafíos complejos. Cuando no estoy codificando, probablemente esté aprendiendo algo nuevo o automatizando tareas cotidianas.
 
-- 🌱 Actualmente aprendiendo: **Inteligencia Artificial, React Native y DevOps**
-- 🚀 Siempre trabajando en: **Proyectos personales que resuelven problemas reales**
-- 💡 Intereses: **Automatización, IoT y desarrollo de software escalable**
-- 🎯 Objetivo: **Contribuir a proyectos de código abierto y seguir mejorando mis habilidades**
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif" />
+</p>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Mi Stack Tecnológico
 
-### 👨‍💻 Lenguajes de Programación
+### 📋 Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Herramientas y Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Carlos" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosNol8411&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=61dafb" alt="Gráfica de actividad" />
+  
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosNol8411&theme=radical&hide_border=true)
+  
 </div>
 
 ---
 
-## 🏆 Logros y Trofeos
+## 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosNol8411&theme=onedark&no-frame=true&margin-w=20&row=2&column=4" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosNol8411&theme=radical&no-frame=true&margin-w=20&row=2&column=4" alt="Trofeos de GitHub" />
 </p>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🤖 Sistema Experto en Prolog
+### 🤖 [Sistema Experto en Prolog](https://github.com/CarlosNol8411/sistema-experto-prolog)
+Sistema de diagnóstico con lógica declarativa e interfaz gráfica de usuario.
 ![Prolog](https://img.shields.io/badge/Prolog-FF6F00?style=for-the-badge&logo=swi-prolog&logoColor=white)
-Sistema de diagnóstico con lógica declarativa y interfaz gráfica de usuario.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧪 Simulación de Arduino
+### 🧪 [Simulación de Arduino](https://github.com/CarlosNol8411/simulacion-arduino)
+Sistema de lectura de sensores ambientales para aplicaciones de domótica.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-Lectura de sensores ambientales para aplicaciones de domótica con visualización en consola.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 📊 Dashboard React
+### 📊 [Dashboard React](https://github.com/CarlosNol8411/dashboard-react)
+Dashboard interactivo para visualización de datos en tiempo real.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-Dashboard interactivo para visualización de datos en tiempo real con gráficos y métricas.
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+
+### 🛠️ [Gestor de QA](https://github.com/CarlosNol8411/gestor-qa)
+Sistema de registro de pruebas y resultados con interfaz intuitiva.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📫 Conectemos
+## 🌱 Actualmente aprendiendo
 
-<div align="center">
+- 🤖 **Inteligencia Artificial** con TensorFlow y PyTorch
+- 📱 **Desarrollo móvil** con React Native
+- ⚙️ **DevOps** con Docker, Kubernetes y CI/CD
+- ☁️ **Computación en la nube** con AWS y Azure
+
+---
+
+## 📫 ¡Conectemos!
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -111,25 +119,34 @@ Dashboard interactivo para visualización de datos en tiempo real con gráficos 
   <a href="https://github.com/CarlosNol8411" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-## ⚡ Curiosidades
-
-- ☕ El café es mi combustible favorito para programar
-- 🎮 En mi tiempo libre disfruto de videojuegos retro
-- 🧠 Siempre estoy buscando nuevos puzzles y desafíos de programación
-- 🌱 Me encanta aprender sobre nuevas tecnologías y tendencias en desarrollo
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF61AE&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil!;¡No+dudes+en+contactarme!;Construyamos+algo+increíble+juntos+🚀" alt="Mensaje de despedida" />
+  <a href="https://www.hackerrank.com/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
+
+---
+
+## ⚡ Fun Facts
+
+- ☕ Mi productividad es directamente proporcional al consumo de café
+- 🎮 Tengo una colección de videojuegos retro
+- 🧠 Disfruto resolviendo problemas complejos como si fueran rompecabezas
+- 🚀 Mi meta es contribuir a proyectos de código abierto que impacten positivamente
+
+---
 
 <div align="center">
   
+### 📈 Gráfica de actividad
+
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=CarlosNol8411&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=22D3EE&point=22D3EE&color=22D3EE)
+
+### ❤️ ¡Gracias por visitar mi perfil!
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=CarlosNol8411&color=blueviolet&style=flat)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=¡No+dudes+en+contactarme!;Construyamos+algo+increíble+juntos+🚀" alt="Mensaje de despedida" />
+</p>
 
 </div>
