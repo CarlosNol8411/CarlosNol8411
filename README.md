@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4500&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hola+Mundo!+👋;Soy+Carlos+Nol;Full+Stack+Developer" alt="Titulo animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4500&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=¡Hola+Mundo!+👋;Soy+Carlos+Nol;Full+Stack+Developer" alt="Titulo animado" />
 </p>
 
 <div align="center">
@@ -126,7 +126,7 @@ Sistema de registro de pruebas y resultados con interfaz intuitiva.
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Datos Curiosos
 
 - ☕ Mi productividad es directamente proporcional al consumo de café
 - 🎮 Tengo una colección de videojuegos retro
@@ -137,10 +137,6 @@ Sistema de registro de pruebas y resultados con interfaz intuitiva.
 
 <div align="center">
   
-### 📈 Gráfica de actividad
-
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=CarlosNol8411&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=22D3EE&point=22D3EE&color=22D3EE)
-
 ### ❤️ ¡Gracias por visitar mi perfil!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CarlosNol8411&color=blueviolet&style=flat)
