@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4500&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=¡Hola+Mundo!+👋;Soy+Carlos+Nol;Full+Stack+Developer" alt="Titulo animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4500&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hola+Mundo%21+%F0%9F%91%8B;Soy+Carlos+Nol;Full+Stack+Developer" alt="Titulo animado" />
+
 </p>
 
 <div align="center">
@@ -139,10 +140,10 @@ Sistema de registro de pruebas y resultados con interfaz intuitiva.
   
 ### ❤️ ¡Gracias por visitar mi perfil!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=CarlosNol8411&color=blueviolet&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=¡No+dudes+en+contactarme!;Construyamos+algo+increíble+juntos+🚀" alt="Mensaje de despedida" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=%C2%A1No+dudes+en+contactarme%21;Construyamos+algo+incre%C3%ADble+juntos+%F0%9F%9A%80" alt="Mensaje de despedida" />
+
 </p>
 
 </div>
