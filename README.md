@@ -64,14 +64,6 @@ Soy un apasionado desarrollador Full Stack con un amor por crear soluciones inno
 
 ---
 
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosNol8411&theme=radical&no-frame=true&margin-w=20&row=2&column=4" alt="Trofeos de GitHub" />
-</p>
-
----
-
 ## 🚀 Proyectos Destacados
 
 ### 🤖 [Sistema Experto en Prolog](https://github.com/CarlosNol8411/sistema-experto-prolog)
