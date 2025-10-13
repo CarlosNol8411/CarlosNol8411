@@ -83,7 +83,7 @@ Aplicación web desarrollada con Ruby on Rails, explorando el framework y sus pa
 ### 🗺️ [Mapa Interactivo con IA](https://github.com/CarlosNol8411/Mapa-IA)
 Herramienta de visualización geoespacial integrada con capacidades de inteligencia artificial para análisis de datos.
 
-### 👾 [Proyecto Videojuego en una appp](https://github.com/diegofregoso/warshadows-paginaweb)
+### 👾 [Proyecto Videojuego en una app](https://github.com/diegofregoso/warshadows-paginaweb)
 Videojuego en una aplicacion movil utilizando android estrudio en lenguaje de java.
 
 ---
