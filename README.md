@@ -51,18 +51,6 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y ef
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosNol8411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNol8411&layout=compact&theme=radical&hide_border=true&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosNol8411&theme=radical&hide_border=true)
-  
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
 
 ### 🔬 [Compilador NOVA](https://github.com/CarlosNol8411/NOVA)
